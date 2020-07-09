@@ -30,3 +30,5 @@ second.next = third
 #printing the linked list before insertion
 print("Printing the linked list before insertion...... ")
 llist.before_insertion_print()
+
+llist.inser(9)
